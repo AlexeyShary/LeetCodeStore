@@ -46,12 +46,3 @@ class Solution {
         return null;
     }
 }
-
-
-/*
-1 2 3 5
-
-0,5
-
-0,5
- */
